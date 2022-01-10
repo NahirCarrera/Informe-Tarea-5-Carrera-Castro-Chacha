@@ -10,9 +10,9 @@
   ### General: 
   * Analizar los temas comprendidos entre los capítulos 9 y 10 del libro Principios de Circuitos Eléctricos empleando mapas mentales y conceptuales para una posterior resolución de los ejercicios impares planteados.
   ### Específicos
+  *  Resolver los ejercicios planteados del capítulo 8 mediante la implementación de métodos de análisis de ramas, lazos y nodos para una adecuada resolución. 
   *  
-  *  
-  *  
+  *  Justificar el desarrollo de ciertos ejercicios a través de un archivo audiovisual para tener respaldos de su resolución.
 ## 2. Resumen
   # CAPÍTULO 9: <p align=center> Análisis de ramas, lazos y nodos
 ## <p align=center> 9.1 Ecuaciones simultáneas en el análisis de circuitos
