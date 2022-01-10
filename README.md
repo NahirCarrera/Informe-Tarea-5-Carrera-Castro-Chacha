@@ -35,11 +35,11 @@
 ## <p align=center> 10.3 Dispoisitivos electromagnéticos
 
 ## <p align=center> 10.4  Histéresis magnética
-
+![tema 10 4](https://user-images.githubusercontent.com/93829976/148814599-53559f21-7e83-44e9-89ae-4f6c2b05c7d1.jpeg)
 ## <p align=center> 10.5  Inducción electromagnética
-
+![Tema 10 5](https://user-images.githubusercontent.com/93829976/148814615-601b9b3d-d57d-4299-a84b-ff1af5b8b0ca.jpeg)
 ## <p align=center> 10.6  Aplicaciones de la inducción electromagnética Una aplicación de circuito
-
+![Tema 10 6](https://user-images.githubusercontent.com/93829976/148814632-3fc7957e-1558-405a-a1f2-1ea3162fad32.jpeg)
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Análisis de ramas, lazos y nodos" y "Magnetismno y electromagnetismo".
