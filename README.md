@@ -16,10 +16,13 @@
 ## 2. Resumen
   # CAPÍTULO 9: <p align=center> Análisis de ramas, lazos y nodos
 ## <p align=center> 9.1 Ecuaciones simultáneas en el análisis de circuitos
+![9 1](https://user-images.githubusercontent.com/93829962/148790549-0ab67766-53b1-490c-abd8-8385a31e141f.jpeg)
 
 ## <p align=center> 9.2 Método de la corriente en ramas
+![9 2](https://user-images.githubusercontent.com/93829962/148790567-1eb313f1-3933-4620-8990-4d9e8cbbae18.jpeg)
 
 ## <p align=center> 9.3 Método de la corriente en trayectorias cerradas
+![9 3](https://user-images.githubusercontent.com/93829962/148790602-c8b43c0f-0162-475a-b823-3d8dfe329bbb.jpeg)
 
 ## <p align=center> 9.4  Método del voltaje en nodos Una aplicación de circuito 
 
