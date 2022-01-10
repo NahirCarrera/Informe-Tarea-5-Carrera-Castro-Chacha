@@ -14,45 +14,28 @@
   *  
   *  
 ## 2. Resumen
-  # CAPÍTULO 9: <p align=center> Título 1
-## <p align=center> 5.1 Resistores en Serie
+  # CAPÍTULO 9: <p align=center> Análisis de ramas, lazos y nodos
+## <p align=center> 9.1 Ecuaciones simultáneas en el análisis de circuitos
 
-## <p align=center> 5.2 Corriente en un circuito en Serie
+## <p align=center> 9.2 Método de la corriente en ramas
 
-## <p align=center> 5.3 Resistencia total en Serie
+## <p align=center> 9.3 Método de la corriente en trayectorias cerradas
 
-## <p align=center> 5.4 Aplicación de la Ley de Ohm
-
-## <p align=center> 5.5 Fuentes de voltaje en Serie - 5.6 Ley de voltaje de Kirchhoff
- 
-## <p align=center> 5.7 Divisores de voltaje
-
-## <p align=center> 5.8 Potencia en circuitos en Serie
- 
-## <p align=center> 5.9 Mediciones de Voltaje
-
-## <p align=center> 5.10 Localización de Fallas
+## <p align=center> 9.4  Método del voltaje en nodos Una aplicación de circuito 
 
 
-  # CAPÍTULO 10: <p align=center> Título 2
-## <p align=center> 6.1 Resistores en Paralelo
+  # CAPÍTULO 10: <p align=center> Magnetismno y electromagnetismo
+## <p align=center> 10.1 El campo magnético
 
-## <p align=center> 6.2 Voltaje en un Circuito en Paralelo
+## <p align=center> 10.2 Electromagnetismo
 
-## <p align=center> 6.3 Ley de las corrientes de Kirchhoff
+## <p align=center> 10.3 Dispoisitivos electromagnéticos
 
-## <p align=center> 6.4 Resistencia total en Paralelo
+## <p align=center> 10.4  Histéresis magnética
 
-## <p align=center> 6.5 Aplicación de la Ley de OHM
+## <p align=center> 10.5  Inducción electromagnética
 
-## <p align=center> 6.6 Fuentes de corriente en paralelo
-
-## <p align=center> 6.7 Divisores de corriente
-
-## <p align=center> 6.8 Potencia en circuitos en paralelo 6.9 Aplicaciones de circuitos en paralelo
-
-## <p align=center> 6.10 Localización de fallas
-
+## <p align=center> 10.6  Aplicaciones de la inducción electromagnética Una aplicación de circuito
 
 ## 3. Explicación y resolución de ejercicios
   ### Explicación
