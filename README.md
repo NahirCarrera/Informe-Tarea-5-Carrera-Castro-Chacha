@@ -48,12 +48,18 @@
   ### Explicación
    Para la resolución de los ejercicios impares planteados en cada capítulo, se realizará una previo análisis de la materia que se encuentra en el libro _Principios de Circuitos Eléctricos_ correspondientes a los capítulos "Análisis de ramas, lazos y nodos" y "Magnetismno y electromagnetismo".
   ### Capítulo 9 - Ejercicios
+![Cap9-Ejercicio 11](https://user-images.githubusercontent.com/93829976/148883285-e51669b9-8704-4ac6-a75c-636105302a39.png)
+![Cap9-Ejercicio 13](https://user-images.githubusercontent.com/93829976/148883307-91314164-5c4e-4347-a888-8f6f077a887e.png)
+![Cap9-Ejercicio 15](https://user-images.githubusercontent.com/93829976/148883324-b4bb48b4-71ff-4058-a515-0ff0efff68b0.png)
+![Cap9-Ejercicio 17](https://user-images.githubusercontent.com/93829976/148883336-b76c50e2-e71a-479a-ae9d-3cb46675bbe8.png)
+![Cap9-Ejercicio 19](https://user-images.githubusercontent.com/93829976/148883345-25f1fae3-042f-41c9-8860-ee0b346cb5df.png)
 ![image](https://user-images.githubusercontent.com/93829962/148851961-c81b3c42-1f74-49cf-a995-529e1b87cdf5.png)
 ![image](https://user-images.githubusercontent.com/93829962/148852057-11e50153-67ff-4c71-9692-32ba2e652c4a.png)
 ![image](https://user-images.githubusercontent.com/93829962/148852107-469da7e2-cfc6-49f0-9e81-0826c5e2f7c6.png)
 ![image](https://user-images.githubusercontent.com/93829962/148852232-e6464eeb-0e6e-43d3-8d6c-112ad6edff84.png)
 
   ### Capítulo 10 - Ejercicios
+![Cap10-Ejercicio 1-7](https://user-images.githubusercontent.com/93829976/148883380-1b507f67-c354-4fe1-b838-d3cb32edc9ad.png)
 ![image](https://user-images.githubusercontent.com/93829962/148852297-e50fa8ce-d9c3-449f-8b53-bae99c969c55.png)
 
 
