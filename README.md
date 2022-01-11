@@ -25,14 +25,18 @@
 ![9 3](https://user-images.githubusercontent.com/93829962/148790602-c8b43c0f-0162-475a-b823-3d8dfe329bbb.jpeg)
 
 ## <p align=center> 9.4  Método del voltaje en nodos Una aplicación de circuito 
+![9 4](https://user-images.githubusercontent.com/93786746/148866572-4a75abdc-43a7-4100-8b99-48877d19d196.png)
 
 
   # CAPÍTULO 10: <p align=center> Magnetismno y electromagnetismo
 ## <p align=center> 10.1 El campo magnético
+![10 1](https://user-images.githubusercontent.com/93786746/148866586-7cc21531-2342-45b4-9152-4389408fdfea.png)
 
 ## <p align=center> 10.2 Electromagnetismo
+![10 2](https://user-images.githubusercontent.com/93786746/148866599-ee0983a6-a4dd-4eaf-a770-c7e0ee84bb47.png)
 
 ## <p align=center> 10.3 Dispoisitivos electromagnéticos
+![10 3](https://user-images.githubusercontent.com/93786746/148866610-aab3cd1a-852f-446f-93fb-87f27d359176.png)
 
 ## <p align=center> 10.4  Histéresis magnética
 ![tema 10 4](https://user-images.githubusercontent.com/93829976/148814599-53559f21-7e83-44e9-89ae-4f6c2b05c7d1.jpeg)
